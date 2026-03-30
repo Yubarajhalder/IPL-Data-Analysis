@@ -1,0 +1,11 @@
+id,season,team1,team2,toss_winner,toss_decision,winner,venue
+1,2020,MI,CSK,CSK,field,CSK,Dubai
+2,2020,RCB,SRH,SRH,bat,RCB,Dubai
+3,2020,KKR,MI,MI,field,MI,Abu Dhabi
+4,2021,CSK,RCB,CSK,bat,CSK,Chennai
+5,2021,MI,SRH,MI,field,MI,Mumbai
+6,2021,KKR,RCB,RCB,field,RCB,Delhi
+7,2022,GT,RR,RR,bat,GT,Ahmedabad
+8,2022,LSG,CSK,LSG,field,LSG,Mumbai
+9,2022,MI,RCB,RCB,bat,RCB,Pune
+10,2022,KKR,SRH,SRH,field,SRH,Kolkata
